@@ -15,7 +15,7 @@ Step 1. Download the VLC skin a.k.a "Power Star" from https://github.com/Vattenp
 
 Step 2. Install VLC media player at https://www.videolan.org/vlc/ if you haven't.
 
-Step 3. Start VLC an open 'Preferences' (CTRL+P) -> 'Interface' ->  'Use customs skin' then locate and select powerstar.vlt.
+Step 3. Start VLC and open 'Preferences' (CTRL+P) -> 'Interface' ->  'Use customs skin' then locate and select powerstar.vlt.
 
 Step 4. Save and restart VLC software.
 
