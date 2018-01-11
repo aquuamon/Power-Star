@@ -25,7 +25,7 @@ Enjoy!
 
 CREDITS:
 
-Props to Nintendo for creating such a cool timeless game character and games such as Super Mario 64.
+Props to Nintendo for creating such a cool timeless game character and games like Super Mario 64.
 
 -----------
 DONATION
