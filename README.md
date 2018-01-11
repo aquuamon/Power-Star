@@ -1,6 +1,8 @@
 # Power Star
 
-Hi! This is a simple and fun VLC skin created with a flat design aspect that is inspired by an all time favorite Super Mario/N64. :)
+Hi! 
+
+This is a simple and fun VLC skin created with a flat design aspect that is inspired by an all time favorite Super Mario/N64. :)
 
 The lastest versions can be found at, https://github.com/Vattenpistol/Power-Star/releases.
 
