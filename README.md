@@ -11,7 +11,7 @@ The lastest versions can be found at, https://github.com/aquuamon/Power-Star/rel
 -----------
 GETTING STARTED
 ---
-Step 1. Download the VLC skin a.k.a "Power Star" from https://github.com/Vattenpistol/Power-Star/releases.
+Step 1. Download the VLC skin a.k.a "Power Star" from https://github.com/aquuamon/Power-Star/releases.
 
 Step 2. Install VLC media player at https://www.videolan.org/vlc/ if you haven't.
 
